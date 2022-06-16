@@ -12,3 +12,6 @@
 127.0.0.1 - - [16/Jun/2022 02:39:54] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [16/Jun/2022 02:39:55] "GET /favicon.ico HTTP/1.1" 404 -</code><br>
 
+
+<code>python3 gellany_plots4_flask.py</code><br>
+
