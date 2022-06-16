@@ -29,5 +29,5 @@ def plot_png():
          #return Response(img,mimetype='img/png')
          return Response(img.getvalue(), mimetype='image/png')
 
-if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=5000)
+
+app.run(host="0.0.0.0", port=5000)
