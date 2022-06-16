@@ -1,6 +1,7 @@
 # gellany_plots_flask
 
 <code>FLASK_APP=gellany_plots_flask flask run</code><br>
+<code>FLASK_APP=gellany_plots3_flask flask run</code><br>
 
 <code>* Serving Flask app "gellany_plots_flask"
  * Environment: production
